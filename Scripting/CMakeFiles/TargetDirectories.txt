@@ -1,0 +1,2 @@
+/home/dusti/projects/cmake_tutorials/Scripting/CMakeFiles/edit_cache.dir
+/home/dusti/projects/cmake_tutorials/Scripting/CMakeFiles/rebuild_cache.dir

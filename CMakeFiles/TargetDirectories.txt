@@ -1,0 +1,7 @@
+/home/dusti/projects/cmake_tutorials/CMakeFiles/library1.dir
+/home/dusti/projects/cmake_tutorials/CMakeFiles/cmake_tutorials.dir
+/home/dusti/projects/cmake_tutorials/CMakeFiles/edit_cache.dir
+/home/dusti/projects/cmake_tutorials/CMakeFiles/rebuild_cache.dir
+/home/dusti/projects/cmake_tutorials/test/CMakeFiles/printer.dir
+/home/dusti/projects/cmake_tutorials/test/CMakeFiles/edit_cache.dir
+/home/dusti/projects/cmake_tutorials/test/CMakeFiles/rebuild_cache.dir
